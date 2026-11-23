@@ -2,11 +2,12 @@
   "schema_version": 1,
   "group": "ЗиК-111",
   "timezone": "Asia/Yekaterinburg",
+  "checked_at": "2026-11-23T22:22:34Z",
   "weeks": [
     {
       "start": "2026-11-23",
       "end": "2026-11-28",
-      "source_url": "pdf-from-user-2026-11-23",
+      "source_url": "https://urgau.ru/images/Raspisanie/AGRO/rasp_faizu1.pdf",
       "lessons": [
         {
           "date": "2026-11-23",
