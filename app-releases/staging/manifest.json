@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "channel": "staging",
-  "version": "1.0.11",
-  "url": "https://raw.githubusercontent.com/HorusOwlvision/zik111-timetable/main/app-releases/staging/versions/1.0.11.js",
-  "sha256": "ebb27dc22a29f225b933bc5babd117b4cd38d67cfc3523e1cbc8bc2a39195053",
-  "size": 96686,
+  "version": "2.0.0",
+  "url": "https://raw.githubusercontent.com/HorusOwlvision/zik111-timetable/main/app-releases/staging/versions/2.0.0.js",
+  "sha256": "c51ac1630f0f4b1d247f8712923a5bfd6ab1192ed2e8735330c1cff83c631da7",
+  "size": 112706,
   "min_bootstrap": 1
 }
