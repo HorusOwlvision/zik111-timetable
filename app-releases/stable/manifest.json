@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "version": "2.1.3",
+  "url": "https://raw.githubusercontent.com/HorusOwlvision/zik111-timetable/main/app-releases/stable/versions/2.1.3.js",
+  "sha256": "ba3578dfbfe519a9775d130cf299be080d1a19d70af6ab092ab2c7db0b60539b",
+  "size": 133614,
+  "min_bootstrap": 1
+}
