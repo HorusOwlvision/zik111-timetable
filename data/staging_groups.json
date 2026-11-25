@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Yekaterinburg",
-  "checked_at": "2026-11-24T14:33:15Z",
+  "checked_at": "2026-11-25T21:50:35Z",
   "groups": {
     "А-111": {
       "title": "Агрономия",
@@ -9,7 +9,7 @@
         {
           "start": "2026-11-23",
           "end": "2026-11-28",
-          "source_url": "reference-pdf-2026-11-23",
+          "source_url": "https://urgau.ru/images/Raspisanie/AGRO/rasp_faizu1.pdf",
           "lessons": [
             {
               "date": "2026-11-23",
@@ -192,7 +192,7 @@
         {
           "start": "2026-11-23",
           "end": "2026-11-28",
-          "source_url": "reference-pdf-2026-11-23",
+          "source_url": "https://urgau.ru/images/Raspisanie/AGRO/rasp_faizu1.pdf",
           "lessons": [
             {
               "date": "2026-11-23",
@@ -366,7 +366,7 @@
         {
           "start": "2026-11-23",
           "end": "2026-11-28",
-          "source_url": "reference-pdf-2026-11-23",
+          "source_url": "https://urgau.ru/images/Raspisanie/AGRO/rasp_faizu1.pdf",
           "lessons": [
             {
               "date": "2026-11-23",
@@ -513,7 +513,7 @@
         {
           "start": "2026-11-23",
           "end": "2026-11-28",
-          "source_url": "reference-pdf-2026-11-23",
+          "source_url": "https://urgau.ru/images/Raspisanie/AGRO/rasp_faizu1.pdf",
           "lessons": [
             {
               "date": "2026-11-23",
@@ -687,7 +687,7 @@
         {
           "start": "2026-11-23",
           "end": "2026-11-28",
-          "source_url": "reference-pdf-2026-11-23",
+          "source_url": "https://urgau.ru/images/Raspisanie/AGRO/rasp_faizu1.pdf",
           "lessons": [
             {
               "date": "2026-11-23",
@@ -861,7 +861,7 @@
         {
           "start": "2026-11-23",
           "end": "2026-11-28",
-          "source_url": "reference-pdf-2026-11-23",
+          "source_url": "https://urgau.ru/images/Raspisanie/AGRO/rasp_faizu1.pdf",
           "lessons": [
             {
               "date": "2026-11-23",
