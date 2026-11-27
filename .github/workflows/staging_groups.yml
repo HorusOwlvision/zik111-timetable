@@ -1,8 +1,8 @@
-name: STAGING groups timetable daily
+name: STAGING groups timetable auto
 
 on:
   schedule:
-    - cron: '27 12 * * *'
+    - cron: '7,37 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -21,8 +21,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-          cache: pip
-      - run: pip install -r requirements.txt
+      - run: pip install pdfplumber requests beautifulsoup4
       - name: Read timetable for all first-year groups
         run: python staging-groups/update_groups.py
       - name: Publish staging group data only
