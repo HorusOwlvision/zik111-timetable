@@ -2,7 +2,8 @@ name: STAGING groups timetable auto
 
 on:
   schedule:
-    - cron: '7,37 * * * *'
+    - cron: '0 23 * * 5'
+      timezone: 'Asia/Yekaterinburg'
   workflow_dispatch:
 
 permissions:
